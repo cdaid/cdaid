@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cdaid
 - 👀 I’m interested in building my technical skills
-- 🌱 I’m currently learning Javascript and MongoDB
+- 🌱 I’m currently learning Node.js, Express, & MongoDB
 - 🎓 I'm currently a full time Tech MBA student at NYU Stern
 
 <!---
